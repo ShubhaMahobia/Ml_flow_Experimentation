@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/230705121718956651/c4cad293cc1d47549301bc4af5409957/artifacts
+end_time: 1754219423187
+entry_point_name: ''
+experiment_id: '230705121718956651'
+lifecycle_stage: active
+run_id: c4cad293cc1d47549301bc4af5409957
+run_name: fortunate-hawk-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754219423067
+status: 4
+tags: []
+user_id: mahob

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/230705121718956651/24632ae5603142e8bf3ca453eee761ac/artifacts
+end_time: 1754219288241
+entry_point_name: ''
+experiment_id: '230705121718956651'
+lifecycle_stage: active
+run_id: 24632ae5603142e8bf3ca453eee761ac
+run_name: unruly-conch-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754219287197
+status: 3
+tags: []
+user_id: mahob

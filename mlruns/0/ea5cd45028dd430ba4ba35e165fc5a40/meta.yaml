@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea5cd45028dd430ba4ba35e165fc5a40/artifacts
+end_time: 1754204060296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea5cd45028dd430ba4ba35e165fc5a40
+run_name: able-bass-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754204060234
+status: 3
+tags: []
+user_id: mahob

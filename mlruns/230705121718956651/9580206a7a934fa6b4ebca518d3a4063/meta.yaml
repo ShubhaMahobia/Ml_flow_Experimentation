@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/230705121718956651/9580206a7a934fa6b4ebca518d3a4063/artifacts
+end_time: 1754219451957
+entry_point_name: ''
+experiment_id: '230705121718956651'
+lifecycle_stage: active
+run_id: 9580206a7a934fa6b4ebca518d3a4063
+run_name: useful-dog-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754219447134
+status: 3
+tags: []
+user_id: mahob
